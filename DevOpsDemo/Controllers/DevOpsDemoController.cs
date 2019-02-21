@@ -11,7 +11,7 @@ namespace DevOpsDemo.Controllers
         // GET: DevOpsDemo
         public ActionResult Index()
         {
-			int x = 1;
+			
             return View();
         }
     }
